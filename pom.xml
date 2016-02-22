@@ -2,7 +2,7 @@
   <parent>
   	<groupId>org.infodancer</groupId>
   	<artifactId>defaults</artifactId>
-  	<version>0.0.1-SNAPSHOT</version>
+  	<version>0.0.12</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>xmlrpc</artifactId>
