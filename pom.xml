@@ -6,7 +6,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>xmlrpc</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>xmlrpc</name>
   <url>http://www.infodancer.org/srcdancer/project/xmlrpc</url>
   <organization>
@@ -49,5 +49,6 @@
   <scm>
     <connection>scm:git:http://infodancer.org/scm/git/xmlrpc</connection>
     <developerConnection>scm:git:http://infodancer.org/scm/git/xmlrpc</developerConnection>
+    <tag>HEAD</tag>
   </scm>
 </project>
