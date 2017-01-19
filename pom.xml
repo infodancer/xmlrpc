@@ -1,11 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <parent>
-  	<groupId>org.infodancer</groupId>
-  	<artifactId>defaults</artifactId>
-  	<version>0.0.12</version>
-  </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>xmlrpc</artifactId>
+  <groupId>org.infodancer.xmlrpc</groupId>
   <version>0.0.2-SNAPSHOT</version>
   <name>xmlrpc</name>
   <url>http://www.infodancer.org/srcdancer/project/xmlrpc</url>
@@ -15,6 +11,12 @@
   </organization>
   
   <dependencies>
+	<dependency>
+  	    <groupId>junit</groupId>
+      	    <artifactId>junit</artifactId>
+      	    <version>4.8.2</version>
+      	    <scope>test</scope>
+  	</dependency>	
   </dependencies>
   
   <build>
