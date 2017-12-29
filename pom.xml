@@ -53,7 +53,7 @@
     <developerConnection>scm:git:git+ssh://git.infodancer.org/srv/git/xmlrpc</developerConnection>
     <tag>HEAD</tag>
   </scm>
-    <distributionManagement>
+  <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
         <name>71fd42ce8655-snapshots</name>
