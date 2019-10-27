@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>xmlrpc</artifactId>
   <groupId>org.infodancer</groupId>
-  <version>0.0.2</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>${project.groupId}:${project.artifactId}</name>
   <url>https://github.com/infodancer/xmlrpc</url>
   <description>
@@ -43,7 +43,7 @@
   	<connection>scm:git:http://github.com/infodancer/xmlrpc.git</connection>
   	<developerConnection>scm:git:http://infodancer@github.com/infodancer/xmlrpc.git</developerConnection>
   	<url>http://github.com/infodancer/xmlrpc/tree/master</url>
-    <tag>xmlrpc-0.0.2</tag>
+    <tag>HEAD</tag>
   </scm>
   
   <distributionManagement>
