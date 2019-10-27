@@ -4,7 +4,11 @@
   <groupId>org.infodancer</groupId>
   <version>0.0.2-SNAPSHOT</version>
   <name>${project.groupId}:${project.artifactId}</name>
-  <url>c</url>
+  <url>https://github.com/infodancer/xmlrpc</url>
+  <description>
+      A basic java utility for sending xmlrpc requests. 
+  </description>
+  
   <organization>
   	<name>Infodancer</name>
   	<url>www.infodancer.org</url>
@@ -34,11 +38,13 @@
       	    <scope>test</scope>
   	</dependency>	
   </dependencies>
+  
   <scm>
   	<connection>scm:git:http://github.com/infodancer/xmlrpc.git</connection>
   	<developerConnection>scm:git:http://infodancer@github.com/infodancer/xmlrpc.git</developerConnection>
   	<url>http://github.com/infodancer/xmlrpc/tree/master</url>
   </scm>
+  
   <distributionManagement>
    <snapshotRepository>
     <id>ossrh</id>
